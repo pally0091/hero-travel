@@ -1,0 +1,46 @@
+#logo span {
+  color: orangered;
+}
+#banner {
+  background-image: url("/Images/Group\ 13\ \(1\)\ \(1\).png");
+  color: white;
+  background-repeat: no-repeat;
+  padding: 80px;
+  border-radius: 20px;
+  text-align: center;
+}
+#banner h1 {
+  font-size: 50px;
+  margin: 5px;
+}
+#banner p {
+  margin-left: 200px;
+  margin-right: 200px;
+}
+body {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+.find-elements {
+  width: 140px;
+  padding-left: 7px;
+  padding-right: 7px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+  margin-left: 2px;
+  margin-right: 2px;
+  border: 0;
+}
+button {
+  background-color: orangered;
+  color: white;
+  font-weight: 700;
+}
+#find-box {
+  background-color: rgba(255, 255, 255, 0.521);
+  padding: 10px;
+  margin-left: 180px;
+  margin-right: 180px;
+  border-radius: 10px;
+}
