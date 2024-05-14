@@ -44,3 +44,26 @@ button {
   margin-right: 180px;
   border-radius: 10px;
 }
+#about {
+  display: flex;
+  margin-top: 80px;
+}
+#about-left {
+  padding: 60px;
+  color: gray;
+}
+#about-left h1 {
+  color: black;
+}
+#about-left ul {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+#about-left ul li {
+  margin-bottom: 20px;
+}
+#about-left button {
+  padding: 10px;
+  border: 0;
+  border-radius: 5px;
+}
